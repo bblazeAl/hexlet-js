@@ -1,3 +1,3 @@
-console.log("First project");
 import _ from "lodash";
-console.log(_.last(["one", "two"]));
+import  { firstPro } from './src/index.js'
+firstPro();
