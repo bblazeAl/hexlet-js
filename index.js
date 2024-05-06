@@ -1,3 +1,3 @@
-console.log('First project');
+console.log("First project");
 import _ from "lodash";
-console.log(_.last(['one', 'two']));
+console.log(_.last(["one", "two"]));
